@@ -1,0 +1,18 @@
+{
+  "name": "vercel-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.670.0",
+    "dotenv": "^16.4.5",
+    "kafkajs": "^2.2.4",
+    "mime-types": "^2.1.35"
+  }
+}

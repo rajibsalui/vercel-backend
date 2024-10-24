@@ -1,0 +1,3 @@
+npm i express ioredis cors random-word-slugs socket.io prisma zod
+
+
